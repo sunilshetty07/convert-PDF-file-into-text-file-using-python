@@ -5,3 +5,4 @@ python code to convert any PDF file into text file.
   1) tkinter
   2) PyPDF2
   3) pathlib
+The text file saved in project folder.
